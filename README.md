@@ -36,3 +36,9 @@ To exit the virtual environment
 ```sh
 deactivate
 ```
+
+Update the requierments.txt
+
+```sh
+pip freeze > requirements.txt
+```
