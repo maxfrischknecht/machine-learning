@@ -1,6 +1,6 @@
 # Anime Quote Generator
 
-A fine-tuned distilgpt2 model for generating manga-style quotes, trained on a curated dataset of anime and manga quotes.
+A fine-tuned distilgpt2 model for generating manga-style quotes, trained on a [curated dataset](https://www.kaggle.com/datasets/tarundalal/anime-quotes) of anime and manga quotes.
 
 > Life is not the end of all things but a journey. The beginning will be as long and beautiful as you can find it. You are free to live your way through life’s path. Your destiny is what makes up for it all. True, but when.
 
