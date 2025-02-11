@@ -1,4 +1,6 @@
 0_models_datasets/
 .venv/
 **/.venv/
+**/datasets/
+**/data/
 .DS_Store
